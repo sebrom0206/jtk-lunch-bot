@@ -1,0 +1,56 @@
+{
+  "Kilen": [
+    {
+      "date": "07-09-2026",
+      "weekday": "Mandag",
+      "dish": "Kylling Tikka Masala med fladbrød, ris, raita og koriander"
+    },
+    {
+      "date": "08-09-2026",
+      "weekday": "Tirsdag",
+      "dish": "Ungarsk oksegullasch med kartoffelmos og persille"
+    },
+    {
+      "date": "09-09-2026",
+      "weekday": "Onsdag",
+      "dish": "Mørbradgryde med champignon, løg og ris"
+    },
+    {
+      "date": "10-09-2026",
+      "weekday": "Torsdag",
+      "dish": "Vegetarisk moussaka med linser"
+    },
+    {
+      "date": "11-09-2026",
+      "weekday": "Fredag",
+      "dish": "Krebinetter med stuvet kål & kartofler"
+    }
+  ],
+  "Dalgas Have": [
+    {
+      "date": "07-09-2026",
+      "weekday": "Mandag",
+      "dish": "Kylling Tikka Masala med fladbrød, ris, raita og koriander"
+    },
+    {
+      "date": "08-09-2026",
+      "weekday": "Tirsdag",
+      "dish": "Ungarsk oksegullasch med kartoffelmos og persille"
+    },
+    {
+      "date": "09-09-2026",
+      "weekday": "Onsdag",
+      "dish": "Mørbradgryde med champignon, løg og ris"
+    },
+    {
+      "date": "10-09-2026",
+      "weekday": "Torsdag",
+      "dish": "Vegetarisk moussaka med linser"
+    },
+    {
+      "date": "11-09-2026",
+      "weekday": "Fredag",
+      "dish": "Krebinetter med stuvet kål & kartofler"
+    }
+  ]
+}
