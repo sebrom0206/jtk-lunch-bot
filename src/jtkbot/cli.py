@@ -4,14 +4,12 @@ from dotenv import load_dotenv
 
 load_dotenv()
 
-from jtkbot.fetch import fetch_week_menu
-from jtkbot.cache import save_week_menu, load_week_menu
-from jtkbot.render import render_daily_email
-from jtkbot.deliver import send_email
-
 
 def scrape() -> None:
     """Henter hele ukens meny og lagrer til data/week.json. Kjøres mandager."""
+    from jtkbot.fetch import fetch_week_menu
+    from jtkbot.cache import save_week_menu
+
     data = fetch_week_menu()
     save_week_menu(data)
     total = sum(len(dishes) for dishes in data.values())
@@ -20,6 +18,10 @@ def scrape() -> None:
 
 def send() -> None:
     """Leser data/week.json og sender dagens meny på e-post. Kjøres hverdager."""
+    from jtkbot.cache import load_week_menu
+    from jtkbot.render import render_daily_email
+    from jtkbot.deliver import send_email
+
     data = load_week_menu()
     result = render_daily_email(data)
     if result is None:
