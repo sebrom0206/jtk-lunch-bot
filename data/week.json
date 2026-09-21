@@ -1,56 +1,56 @@
 {
   "Kilen": [
     {
-      "date": "14-09-2026",
+      "date": "21-09-2026",
       "weekday": "Mandag",
-      "dish": "Spaghetti bolognese"
+      "dish": "Kylling i karry med ris"
     },
     {
-      "date": "15-09-2026",
+      "date": "22-09-2026",
       "weekday": "Tirsdag",
-      "dish": "Kyllingegryde med spinat, soltørrede tomater og fløde serveret med kartofler"
+      "dish": "Oksekødsgryde med rodfrugter, timian og perlebyg"
     },
     {
-      "date": "16-09-2026",
+      "date": "23-09-2026",
       "weekday": "Onsdag",
-      "dish": "Teriyaki-marineret svinekød med sesam med ris og grøntsager"
+      "dish": "Koreansk inspireret kylling med sesam, ris og wokkede grøntsager"
     },
     {
-      "date": "17-09-2026",
+      "date": "24-09-2026",
       "weekday": "Torsdag",
-      "dish": "Chili con carne med bønner og majs"
+      "dish": "Fiskefrikadeller med remoulade, grov kartoffelsalat og citron"
     },
     {
-      "date": "18-09-2026",
+      "date": "25-09-2026",
       "weekday": "Fredag",
-      "dish": "Indisk kyllingegryde med kokos, linser og spinat"
+      "dish": "Citronmarineret kylling med orzo, grillede grøntsager og urter"
     }
   ],
   "Dalgas Have": [
     {
-      "date": "14-09-2026",
+      "date": "21-09-2026",
       "weekday": "Mandag",
-      "dish": "Spaghetti bolognese"
+      "dish": "Kylling i karry med ris"
     },
     {
-      "date": "15-09-2026",
+      "date": "22-09-2026",
       "weekday": "Tirsdag",
-      "dish": "Kyllingegryde med spinat, soltørrede tomater og fløde serveret med kartofler"
+      "dish": "Oksekødsgryde med rodfrugter, timian og perlebyg"
     },
     {
-      "date": "16-09-2026",
+      "date": "23-09-2026",
       "weekday": "Onsdag",
-      "dish": "Teriyaki-marineret svinekød med sesam med ris og grøntsager"
+      "dish": "Koreansk inspireret kylling med sesam, ris og wokkede grøntsager"
     },
     {
-      "date": "17-09-2026",
+      "date": "24-09-2026",
       "weekday": "Torsdag",
-      "dish": "Chili con carne med bønner og majs"
+      "dish": "Fiskefrikadeller med remoulade, grov kartoffelsalat og citron"
     },
     {
-      "date": "18-09-2026",
+      "date": "25-09-2026",
       "weekday": "Fredag",
-      "dish": "Indisk kyllingegryde med kokos, linser og spinat"
+      "dish": "Citronmarineret kylling med orzo, grillede grøntsager og urter"
     }
   ]
 }
