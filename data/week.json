@@ -1,56 +1,56 @@
 {
   "Kilen": [
     {
-      "date": "21-09-2026",
+      "date": "28-09-2026",
       "weekday": "Mandag",
-      "dish": "Kylling i karry med ris"
+      "dish": "Kyllingefrikassé med porrer, gulerødder og ærter med persillekartofler"
     },
     {
-      "date": "22-09-2026",
+      "date": "29-09-2026",
       "weekday": "Tirsdag",
-      "dish": "Oksekødsgryde med rodfrugter, timian og perlebyg"
+      "dish": "Oksegryde med timian og svampe Serveres med kartoffelmos"
     },
     {
-      "date": "23-09-2026",
+      "date": "30-09-2026",
       "weekday": "Onsdag",
-      "dish": "Koreansk inspireret kylling med sesam, ris og wokkede grøntsager"
+      "dish": "Teriyakikylling med sesam og forårsløg Serveres med jasminris"
     },
     {
-      "date": "24-09-2026",
+      "date": "01-10-2026",
       "weekday": "Torsdag",
-      "dish": "Fiskefrikadeller med remoulade, grov kartoffelsalat og citron"
+      "dish": "Braiseret nakkefilet med sennepssauce Serveres med ovnkartofler"
     },
     {
-      "date": "25-09-2026",
+      "date": "02-10-2026",
       "weekday": "Fredag",
-      "dish": "Citronmarineret kylling med orzo, grillede grøntsager og urter"
+      "dish": "Kylling i rød karry med grøntsager Serveres med jasminris"
     }
   ],
   "Dalgas Have": [
     {
-      "date": "21-09-2026",
+      "date": "28-09-2026",
       "weekday": "Mandag",
-      "dish": "Kylling i karry med ris"
+      "dish": "Kyllingefrikassé med porrer, gulerødder og ærter med persillekartofler"
     },
     {
-      "date": "22-09-2026",
+      "date": "29-09-2026",
       "weekday": "Tirsdag",
-      "dish": "Oksekødsgryde med rodfrugter, timian og perlebyg"
+      "dish": "Oksegryde med timian og svampe Serveres med kartoffelmos"
     },
     {
-      "date": "23-09-2026",
+      "date": "30-09-2026",
       "weekday": "Onsdag",
-      "dish": "Koreansk inspireret kylling med sesam, ris og wokkede grøntsager"
+      "dish": "Teriyakikylling med sesam og forårsløg Serveres med jasminris"
     },
     {
-      "date": "24-09-2026",
+      "date": "01-10-2026",
       "weekday": "Torsdag",
-      "dish": "Fiskefrikadeller med remoulade, grov kartoffelsalat og citron"
+      "dish": "Braiseret nakkefilet med sennepssauce Serveres med ovnkartofler"
     },
     {
-      "date": "25-09-2026",
+      "date": "02-10-2026",
       "weekday": "Fredag",
-      "dish": "Citronmarineret kylling med orzo, grillede grøntsager og urter"
+      "dish": "Kylling i rød karry med grøntsager Serveres med jasminris"
     }
   ]
 }
