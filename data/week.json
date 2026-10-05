@@ -1,56 +1,56 @@
 {
   "Kilen": [
     {
-      "date": "28-09-2026",
+      "date": "05-10-2026",
       "weekday": "Mandag",
-      "dish": "Kyllingefrikassé med porrer, gulerødder og ærter med persillekartofler"
+      "dish": "Spaghetti Bolognese"
     },
     {
-      "date": "29-09-2026",
+      "date": "06-10-2026",
       "weekday": "Tirsdag",
-      "dish": "Oksegryde med timian og svampe Serveres med kartoffelmos"
+      "dish": "Boller i karry med ris"
     },
     {
-      "date": "30-09-2026",
+      "date": "07-10-2026",
       "weekday": "Onsdag",
-      "dish": "Teriyakikylling med sesam og forårsløg Serveres med jasminris"
+      "dish": "Kylling i cremet svampesauce Serveres med pasta"
     },
     {
-      "date": "01-10-2026",
+      "date": "08-10-2026",
       "weekday": "Torsdag",
-      "dish": "Braiseret nakkefilet med sennepssauce Serveres med ovnkartofler"
+      "dish": "Svensk fläskgryta med svampe"
     },
     {
-      "date": "02-10-2026",
+      "date": "09-10-2026",
       "weekday": "Fredag",
-      "dish": "Kylling i rød karry med grøntsager Serveres med jasminris"
+      "dish": "Kylling cacciatore med pasta"
     }
   ],
   "Dalgas Have": [
     {
-      "date": "28-09-2026",
+      "date": "05-10-2026",
       "weekday": "Mandag",
-      "dish": "Kyllingefrikassé med porrer, gulerødder og ærter med persillekartofler"
+      "dish": "Spaghetti Bolognese"
     },
     {
-      "date": "29-09-2026",
+      "date": "06-10-2026",
       "weekday": "Tirsdag",
-      "dish": "Oksegryde med timian og svampe Serveres med kartoffelmos"
+      "dish": "Boller i karry med ris"
     },
     {
-      "date": "30-09-2026",
+      "date": "07-10-2026",
       "weekday": "Onsdag",
-      "dish": "Teriyakikylling med sesam og forårsløg Serveres med jasminris"
+      "dish": "Kylling i cremet svampesauce Serveres med pasta"
     },
     {
-      "date": "01-10-2026",
+      "date": "08-10-2026",
       "weekday": "Torsdag",
-      "dish": "Braiseret nakkefilet med sennepssauce Serveres med ovnkartofler"
+      "dish": "Svensk fläskgryta med svampe"
     },
     {
-      "date": "02-10-2026",
+      "date": "09-10-2026",
       "weekday": "Fredag",
-      "dish": "Kylling i rød karry med grøntsager Serveres med jasminris"
+      "dish": "Kylling cacciatore med pasta"
     }
   ]
 }
