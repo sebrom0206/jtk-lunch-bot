@@ -1,56 +1,56 @@
 {
   "Kilen": [
     {
-      "date": "05-10-2026",
+      "date": "12-10-2026",
       "weekday": "Mandag",
-      "dish": "Spaghetti Bolognese"
+      "dish": "Helstegt kylling med timiansauce og urtebagte kartofler"
     },
     {
-      "date": "06-10-2026",
+      "date": "13-10-2026",
       "weekday": "Tirsdag",
-      "dish": "Boller i karry med ris"
+      "dish": "Pulled pork burger med cajun kartoffelbåde og BBQ"
     },
     {
-      "date": "07-10-2026",
+      "date": "14-10-2026",
       "weekday": "Onsdag",
-      "dish": "Kylling i cremet svampesauce Serveres med pasta"
+      "dish": "Stegt flæsk med kartofler og persille sauce"
     },
     {
-      "date": "08-10-2026",
+      "date": "15-10-2026",
       "weekday": "Torsdag",
-      "dish": "Svensk fläskgryta med svampe"
+      "dish": "Kyllingelår i svampesauce med perlebyg"
     },
     {
-      "date": "09-10-2026",
+      "date": "16-10-2026",
       "weekday": "Fredag",
-      "dish": "Kylling cacciatore med pasta"
+      "dish": "Oksekød i paprika med kartoffelmos"
     }
   ],
   "Dalgas Have": [
     {
-      "date": "05-10-2026",
+      "date": "12-10-2026",
       "weekday": "Mandag",
-      "dish": "Spaghetti Bolognese"
+      "dish": "Helstegt kylling med timiansauce og urtebagte kartofler"
     },
     {
-      "date": "06-10-2026",
+      "date": "13-10-2026",
       "weekday": "Tirsdag",
-      "dish": "Boller i karry med ris"
+      "dish": "Pulled pork burger med cajun kartoffelbåde og BBQ"
     },
     {
-      "date": "07-10-2026",
+      "date": "14-10-2026",
       "weekday": "Onsdag",
-      "dish": "Kylling i cremet svampesauce Serveres med pasta"
+      "dish": "Stegt flæsk med kartofler og persille sauce"
     },
     {
-      "date": "08-10-2026",
+      "date": "15-10-2026",
       "weekday": "Torsdag",
-      "dish": "Svensk fläskgryta med svampe"
+      "dish": "Kyllingelår i svampesauce med perlebyg"
     },
     {
-      "date": "09-10-2026",
+      "date": "16-10-2026",
       "weekday": "Fredag",
-      "dish": "Kylling cacciatore med pasta"
+      "dish": "Oksekød i paprika med kartoffelmos"
     }
   ]
 }
