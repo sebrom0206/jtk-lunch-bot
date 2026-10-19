@@ -1,56 +1,56 @@
 {
   "Kilen": [
     {
-      "date": "12-10-2026",
+      "date": "19-10-2026",
       "weekday": "Mandag",
-      "dish": "Helstegt kylling med timiansauce og urtebagte kartofler"
+      "dish": "Moussaka med oksekød og salat"
     },
     {
-      "date": "13-10-2026",
+      "date": "20-10-2026",
       "weekday": "Tirsdag",
-      "dish": "Pulled pork burger med cajun kartoffelbåde og BBQ"
+      "dish": "Mørbradgryde af svinekam og champignon serveret med ris"
     },
     {
-      "date": "14-10-2026",
+      "date": "21-10-2026",
       "weekday": "Onsdag",
-      "dish": "Stegt flæsk med kartofler og persille sauce"
+      "dish": "Frikadeller med stuvet hvidkål og kartofler"
     },
     {
-      "date": "15-10-2026",
+      "date": "22-10-2026",
       "weekday": "Torsdag",
-      "dish": "Kyllingelår i svampesauce med perlebyg"
+      "dish": "Kylling i paprika med ris"
     },
     {
-      "date": "16-10-2026",
+      "date": "23-10-2026",
       "weekday": "Fredag",
-      "dish": "Oksekød i paprika med kartoffelmos"
+      "dish": "Forloren hare med rodfrugter"
     }
   ],
   "Dalgas Have": [
     {
-      "date": "12-10-2026",
+      "date": "19-10-2026",
       "weekday": "Mandag",
-      "dish": "Helstegt kylling med timiansauce og urtebagte kartofler"
+      "dish": "Moussaka med oksekød og salat"
     },
     {
-      "date": "13-10-2026",
+      "date": "20-10-2026",
       "weekday": "Tirsdag",
-      "dish": "Pulled pork burger med cajun kartoffelbåde og BBQ"
+      "dish": "Mørbradgryde af svinekam og champignon serveret med ris"
     },
     {
-      "date": "14-10-2026",
+      "date": "21-10-2026",
       "weekday": "Onsdag",
-      "dish": "Stegt flæsk med kartofler og persille sauce"
+      "dish": "Frikadeller med stuvet hvidkål og kartofler"
     },
     {
-      "date": "15-10-2026",
+      "date": "22-10-2026",
       "weekday": "Torsdag",
-      "dish": "Kyllingelår i svampesauce med perlebyg"
+      "dish": "Kylling i paprika med ris"
     },
     {
-      "date": "16-10-2026",
+      "date": "23-10-2026",
       "weekday": "Fredag",
-      "dish": "Oksekød i paprika med kartoffelmos"
+      "dish": "Forloren hare med rodfrugter"
     }
   ]
 }
