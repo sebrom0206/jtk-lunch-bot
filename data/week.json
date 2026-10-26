@@ -1,56 +1,56 @@
 {
   "Kilen": [
     {
-      "date": "19-10-2026",
+      "date": "26-10-2026",
       "weekday": "Mandag",
-      "dish": "Moussaka med oksekød og salat"
+      "dish": "Chili con carne med creme fraiche, chips og ris"
     },
     {
-      "date": "20-10-2026",
+      "date": "27-10-2026",
       "weekday": "Tirsdag",
-      "dish": "Mørbradgryde af svinekam og champignon serveret med ris"
+      "dish": "Kyllingelår i paprikaflødesauce med perlebyg"
     },
     {
-      "date": "21-10-2026",
+      "date": "28-10-2026",
       "weekday": "Onsdag",
-      "dish": "Frikadeller med stuvet hvidkål og kartofler"
+      "dish": "Lasagne med linser og oksekød"
     },
     {
-      "date": "22-10-2026",
+      "date": "29-10-2026",
       "weekday": "Torsdag",
-      "dish": "Kylling i paprika med ris"
+      "dish": "Kyllingefrikassé med ris"
     },
     {
-      "date": "23-10-2026",
+      "date": "30-10-2026",
       "weekday": "Fredag",
-      "dish": "Forloren hare med rodfrugter"
+      "dish": "Pulled pork burger med BBQ og grove fritter"
     }
   ],
   "Dalgas Have": [
     {
-      "date": "19-10-2026",
+      "date": "26-10-2026",
       "weekday": "Mandag",
-      "dish": "Moussaka med oksekød og salat"
+      "dish": "Chili con carne med creme fraiche, chips og ris"
     },
     {
-      "date": "20-10-2026",
+      "date": "27-10-2026",
       "weekday": "Tirsdag",
-      "dish": "Mørbradgryde af svinekam og champignon serveret med ris"
+      "dish": "Kyllingelår i paprikaflødesauce med perlebyg"
     },
     {
-      "date": "21-10-2026",
+      "date": "28-10-2026",
       "weekday": "Onsdag",
-      "dish": "Frikadeller med stuvet hvidkål og kartofler"
+      "dish": "Lasagne med linser og oksekød"
     },
     {
-      "date": "22-10-2026",
+      "date": "29-10-2026",
       "weekday": "Torsdag",
-      "dish": "Kylling i paprika med ris"
+      "dish": "Kyllingefrikassé med ris"
     },
     {
-      "date": "23-10-2026",
+      "date": "30-10-2026",
       "weekday": "Fredag",
-      "dish": "Forloren hare med rodfrugter"
+      "dish": "Pulled pork burger med BBQ og grove fritter"
     }
   ]
 }
